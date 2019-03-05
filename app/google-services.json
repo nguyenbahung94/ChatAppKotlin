@@ -1,0 +1,58 @@
+{
+  "project_info": {
+    "project_number": "525579491100",
+    "firebase_url": "https://speechtotext-fae24.firebaseio.com",
+    "project_id": "speechtotext-fae24",
+    "storage_bucket": "speechtotext-fae24.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:525579491100:android:01aac42a1bea059b",
+        "android_client_info": {
+          "package_name": "com.example.firebasechatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "525579491100-vmovr79os2ndl9f3b65p2utcqdr4lolq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firebasechatapp",
+            "certificate_hash": "f471672d934d7bbc08e62e238a911285d484320d"
+          }
+        },
+        {
+          "client_id": "525579491100-lp4edb0ngntujnqhvuajcmmulililorq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBL5Wl5TeObkvJqtV9RwF2TEqufVkERSrE"
+        },
+        {
+          "current_key": "AIzaSyBTR73CKKceuHEQ7lIRoobeVbD8HuNOSXc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "525579491100-lp4edb0ngntujnqhvuajcmmulililorq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
