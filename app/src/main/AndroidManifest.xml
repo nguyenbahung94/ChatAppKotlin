@@ -20,10 +20,18 @@
                 <category android:name="android.intent.category.LAUNCHER"/>
             </intent-filter>
         </activity>
-        <activity android:name=".MainActivity"
-                  android:label="FireMessage"/>
-        <activity android:name=".SigninActivity"
-                  android:label="Start firing message"/>
+        <activity
+                android:name=".MainActivity"
+                android:label="FireMessage"
+                android:windowSoftInputMode="adjustNothing"/>
+        <activity
+                android:name=".SigninActivity"
+                android:label="Start firing message"/>
+        <activity android:name=".ChatActivity">
+            <meta-data
+                    android:name="android.support.PARENT_ACTIVITY"
+                    android:value=".MainActivity"/>
+        </activity>
     </application>
 
 </manifest>
